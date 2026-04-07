@@ -1,0 +1,21 @@
+{
+    "name": "inwebo/iso-3166-dataset",
+    "description": "This project provides a comprehensive dataset of countries and territories according to the ISO 3166 standard.",
+    "type": "metapackage",
+    "license": "GPL-3.0-or-later",
+    "keywords": [
+      "geolocation",
+      "country",
+      "iso 3166",
+      "iso 3166-1",
+      "dataset"
+    ],
+    "authors": [
+        {
+            "name": "inwebo",
+            "email": "github@inwebo.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
